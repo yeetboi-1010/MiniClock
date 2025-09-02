@@ -1,4 +1,17 @@
 body {
-    font-family: 'Roboto', 'Arial';
-    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
 }
+
+.container {
+    font-family: 'Roboto', 'Arial';
+    color: #fff;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+}
+
